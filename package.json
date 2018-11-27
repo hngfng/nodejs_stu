@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_stu",
+  "version": "1.0.0",
+  "description": "学习 nodejs 中常用的小例子",
+  "main": "BufferTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hngfng/nodejs_stu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hngfng/nodejs_stu/issues"
+  },
+  "homepage": "https://github.com/hngfng/nodejs_stu#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
